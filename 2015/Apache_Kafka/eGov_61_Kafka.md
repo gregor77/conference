@@ -28,14 +28,15 @@
 
 설문 조사를 하면서 더 나은 세미나를 위해 노력하는 사람들이 멋져 보였다. 다음에 기회가 되면 고수님들과 함께하는 활동을 하면 재미있을 것 같았다. 그리고 다음에 올때는 나도 주위에 관심있는 후배와 함께 와야겠다. 이번에 선배님을 통해서 좋은 기회를 얻은 것처럼 나도 다른 누군가에게 좋은 기회를 함께 하고 싶어졌다.
 
-![](https://github.com/gregor77/conference/blob/master/2015/Apache Kafka/enterance.jpg)
-![](https://github.com/gregor77/conference/blob/master/2015/Apache Kafka/seminar1.jpg)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/enterance.jpg)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/seminar1.jpg)
 
 #### 2. 세미나 관련
 ** 작성 중 **
 
 ## Kafka 관련 자료
 * [Apache Kafka 공식 홈페이지](http://kafka.apache.org/)
+* [inpoq Kafka 관련 기사](http://www.infoq.com/articles/apache-kafka)
 * [세미나 발표 자료](http://open.egovframe.go.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000015&nttId=16844)
 * [세미나 현장 사진](http://open.egovframe.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000014&nttId=16863)
 * [Apache Kafka 소개 및 정리](http://epicdevs.com/17)
