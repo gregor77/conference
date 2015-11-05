@@ -34,7 +34,7 @@
 #### 2. 세미나 관련
 그림에서 Kafka가 있는 위치가 Message broker 역할을 수행하며, Active MQ, Rabbit MQ든 상황에 따라 그 역할을 대신 할 수 있다.
 
-![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/Apache_Kafka)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/Apache_Kafka.png)
 
 Kafka는 전통적인 메세지 서버인 Active MQ, Rabbit MQ와 비교해서 장점은?
 
@@ -42,7 +42,7 @@ Kafka는 전통적인 메세지 서버인 Active MQ, Rabbit MQ와 비교해서 �
 * 메세지가 많으면 많을 수록, 전통적인 메세지 서버에 비해서 성능이 우수하다.
 * Kafka는 disk 기반에 메세지가 저장되므로, 메모리에 메세지가 관리되는 전통적인 메세지 서버에 비해서 손실이 없다.
 
-![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/compare_performance)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/compare_performance.png)
 
 **가장 좋았던 점은, 스프링 부트와 java를 기반의 퀵 스타트 소스를 직접 보며, 실제 개발시에 어떻게 적용할 수 확인할 수 있었던 점이다.** 이 시간을 통해서 업무에 적용할 때 많은 인사이트를 얻을 수 있었다.
 
