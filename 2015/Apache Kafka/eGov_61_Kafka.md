@@ -24,7 +24,8 @@
 
 빨리 가야 겠다는 생각으로 열심히 걷다보니, D.CAMP에 1등으로 도착해 버렸다. 저녁을 못 먹고 갔는데 다행이 샌드위치와 쥬스를 준비해주셔서 맛있게 먹고 기분 좋은 상태에서 세미나를 들을 수 있었다.
 
-![D.CAMP]()
+![](https://github.com/gregor77/conference/blob/master/2015/Apache Kafka/enterance.jpg)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache Kafka/seminar1.jpg)
 
 #### 2. 세미나 관련
 
