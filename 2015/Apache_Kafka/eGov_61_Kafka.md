@@ -28,11 +28,27 @@
 
 설문 조사를 하면서 더 나은 세미나를 위해 노력하는 사람들이 멋져 보였다. 다음에 기회가 되면 고수님들과 함께하는 활동을 하면 재미있을 것 같았다. 그리고 다음에 올때는 나도 주위에 관심있는 후배와 함께 와야겠다. 이번에 선배님을 통해서 좋은 기회를 얻은 것처럼 나도 다른 누군가에게 좋은 기회를 함께 하고 싶어졌다.
 
-![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/enterance.jpg)
-![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/seminar1.jpg)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/enterance.jpg)
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/seminar1.jpg)
 
 #### 2. 세미나 관련
-** 작성 중 **
+그림에서 Kafka가 있는 위치가 Message broker 역할을 수행하며, Active MQ, Rabbit MQ든 상황에 따라 그 역할을 대신 할 수 있다.
+
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/Apache_Kafka)
+
+Kafka는 전통적인 메세지 서버인 Active MQ, Rabbit MQ와 비교해서 장점은?
+
+* 복제가 쉽기 때문에 메세지가 아주 많은 곳에 적합하다.
+* 메세지가 많으면 많을 수록, 전통적인 메세지 서버에 비해서 성능이 우수하다.
+* Kafka는 disk 기반에 메세지가 저장되므로, 메모리에 메세지가 관리되는 전통적인 메세지 서버에 비해서 손실이 없다.
+
+![](https://github.com/gregor77/conference/blob/master/2015/Apache_Kafka/image/compare_performance)
+
+**가장 좋았던 점은, 스프링 부트와 java를 기반의 퀵 스타트 소스를 직접 보며, 실제 개발시에 어떻게 적용할 수 확인할 수 있었던 점이다.** 이 시간을 통해서 업무에 적용할 때 많은 인사이트를 얻을 수 있었다.
+
+개인 사정 때문에 세미나 마지막 부분에 나와야 해서, SK IoT Framework에 적용사례는 듣지 못한 점이 개인적으로는 아쉬웠다. 발표 자료를 보니, 시간을 기준으로 많이 데이터가 많이 발생하는 센서의 메세지 수집에 Kafka를 적용한 것으로 보였다. 센서등의 IoT의 경우 짧은 시간에 많은 양의 데이터가 수집되므로 Active MQ, Rabbit MQ에 비해서 Kafka가 더 적합하다는 생각이 들었다.
+
+이번 세미나를 통해서 Real time app으로 부터 Kafka를 통해서 메세지를 수집하고, Hadoop File system 기반에서 hive, spark, elastic search 를 통한 데이터 분석의 연결고리가 그려저서 개인적으로는 만족스러운 시간이었다.
 
 ## Kafka 관련 자료
 * [Apache Kafka 공식 홈페이지](http://kafka.apache.org/)
