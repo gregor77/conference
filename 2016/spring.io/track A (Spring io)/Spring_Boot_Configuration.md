@@ -1,8 +1,10 @@
+![](https://github.com/gregor77/conference/blob/master/2016/spring.io/spring_configuration.jpg)
+
 ## 적용 가능성
 * 기존에 @Profile를 사용해서 cache(internal/external) 구분햇는데..
  - @Conditional으로 변경 가능할 듯 (각 cache의 property가 있을때만 Bean으로 등록하도록)
  - 단, 조건이 통과하는 구현체는 생성 필요. Condition interface 구현
- - ** @Profile이 어차피 @Conditional 구현이기 때문에.. 크게 차이가 없기는 하다..**
+ - **@Profile이 어차피 @Conditional 구현이기 때문에.. 크게 차이가 없기는 하다..**
 
 ## @EnableAutoConfiguration
 META-INF/spring.factories 파일을 참조해서, 모든 클래스를 로딩한다.
@@ -35,4 +37,3 @@ datasource 정의 체크도 가능.
   - log.level.springframework.boot = debug
 
 ## QnA
-* multi 
