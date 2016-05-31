@@ -1,4 +1,6 @@
 # Building Cloud Native applications with cloud foundary and spring
+![](https://github.com/gregor77/conference/blob/master/2016/spring.io/spring_cloud1.jpg)
+
 ## 회고
 * spring cloud 사용한 구현
 * 개념적인 부분 기존에 공유된 부분가 다르지 않음.
@@ -22,6 +24,7 @@ work flow중에 오류가 나면, step을 그만둔다.
 * micro service 개념, cloud향 어플리케이션 어떻게 만들어야 하는가
 * spring boot
 * spring cloud 설정
+  - ![](https://github.com/gregor77/conference/blob/master/2016/spring.io/spring_cloud2.jpg)
 * RESTFul microservice
 * Microservice Reference App
   - Kenny가 만든 이커머스 sample app이 있음
